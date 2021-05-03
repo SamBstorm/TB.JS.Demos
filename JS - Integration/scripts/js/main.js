@@ -1,0 +1,1 @@
+console.log("Ceci est un script venant d'un fichier appart...");
